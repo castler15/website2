@@ -3,32 +3,172 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/website2/</loc>
-    <lastmod>2016-12-30T21:49:57-07:00</lastmod>
+    <loc>/website2/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/website2/2016/12/30/a-plain-markdown-post/</loc>
-    <lastmod>2016-12-30T21:49:57-07:00</lastmod>
+    <loc>/website2/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website2/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website2/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website2/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website2/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/website2/post/</loc>
-    <lastmod>2016-12-30T21:49:57-07:00</lastmod>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/website2/about/</loc>
-    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+    <loc>/website2/post/writing-technical-content/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website2/authors/admin/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website2/publication_types/3/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website2/publication/preprint/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website2/authors/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website2/publication_types/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website2/publication/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website2/tags/source-themes/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website2/tags/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website2/post/jupyter/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website2/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website2/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website2/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website2/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website2/tags/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website2/tags/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website2/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website2/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website2/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website2/tags/academic/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website2/post/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/website2/categories/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/website2/2015/07/23/hello-r-markdown/</loc>
+    <loc>/website2/categories/demo/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website2/publication_types/2/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website2/publication/journal-article/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website2/authors/robert-ford/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website2/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
@@ -53,13 +193,17 @@
   </url>
   
   <url>
-    <loc>/website2/tags/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <loc>/website2/publication_types/1/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/website2/2015/01/01/lorem-ipsum/</loc>
-    <lastmod>2015-01-01T13:09:13-06:00</lastmod>
+    <loc>/website2/publication/conference-paper/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website2/courses/</loc>
   </url>
   
 </urlset>
